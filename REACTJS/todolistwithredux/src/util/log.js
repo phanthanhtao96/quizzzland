@@ -1,1 +1,0 @@
-export const alertLog = (x) => `Vui Lòng ${x}`
